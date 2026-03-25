@@ -1,7 +1,7 @@
 ## Cloud computing and global satellite products for potential groundwater recharge estimation: Application to the Basin of Mexico
 
 **Format:** Jupyter Notebook compatible with Google Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TheHydrogeologyGroup/GoogleColab_RechargeApp/blob/main/GEE_Recharge.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Public-user-00/GoogleColab_RechargeApp/blob/main/GEE_Recharge.ipynb)
 [(https://colab.research.google.com/github/Public-user-00/GoogleColab_RechargeApp/blob/main/GEE_Recharge.ipynb)]
 
 ## i. Project description
