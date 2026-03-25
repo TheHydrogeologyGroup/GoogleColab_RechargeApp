@@ -3,8 +3,8 @@
 **Authors:** Elizabeth Guzmán-Hidalgo, Saúl Arciniega-Esparza, Antonio Hernández-Espriú  
 **Institution:** Faculty of Engineering, National Autonomous University of Mexico (UNAM)
 **Format:** Jupyter Notebook compatible with Google Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-[(https://github.com/TheHydrogeologyGroup/GoogleColab_RechargeApp/blob/53ee8fe2b2c5cb4fec68b3df0f65afa6f14b8330/GEE_Recharge.ipynb)]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TheHydrogeologyGroup/GoogleColab_RechargeApp/blob/main/GEE_Recharge.ipynb)
+[(https://colab.research.google.com/github/TheHydrogeologyGroup/GoogleColab_RechargeApp/blob/main/GEE_Recharge.ipynb)]
 
 ## i. Project description
 
