@@ -1,7 +1,5 @@
 ## Cloud computing and global satellite products for potential groundwater recharge estimation: Application to the Basin of Mexico
 
-**Authors:** Elizabeth Guzmán-Hidalgo, Saúl Arciniega-Esparza, Antonio Hernández-Espriú  
-**Institution:** Faculty of Engineering, National Autonomous University of Mexico (UNAM)
 **Format:** Jupyter Notebook compatible with Google Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TheHydrogeologyGroup/GoogleColab_RechargeApp/blob/main/GEE_Recharge.ipynb)
 [(https://colab.research.google.com/github/TheHydrogeologyGroup/GoogleColab_RechargeApp/blob/main/GEE_Recharge.ipynb)]
